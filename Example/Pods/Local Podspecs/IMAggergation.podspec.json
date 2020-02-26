@@ -1,0 +1,22 @@
+{
+  "name": "IMAggergation",
+  "version": "0.1.0",
+  "summary": "A short description of IMAggergation.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/blazeiceb@gmail.com/IMAggergation",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "blazeiceb@gmail.com": "blazeiceb@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/blazeiceb@gmail.com/IMAggergation.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "IMAggergation/Classes/**/*"
+}

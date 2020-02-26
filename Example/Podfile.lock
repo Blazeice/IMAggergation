@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - IMAggergation (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - IMAggergation (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  IMAggergation:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  IMAggergation: 7b29c020d75af5637957c3ec6b97f7b15da29d55
+
+PODFILE CHECKSUM: 165c2084f1a12e08931fde70e3d8a9f8459eaede
+
+COCOAPODS: 1.8.4

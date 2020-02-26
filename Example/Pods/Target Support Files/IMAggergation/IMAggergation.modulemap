@@ -1,0 +1,6 @@
+framework module IMAggergation {
+  umbrella header "IMAggergation-umbrella.h"
+
+  export *
+  module * { export * }
+}
