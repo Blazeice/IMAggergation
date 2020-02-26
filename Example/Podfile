@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'IMAggergation_Example' do
+  pod 'IMAggergation', :path => '../'
+
+  target 'IMAggergation_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
